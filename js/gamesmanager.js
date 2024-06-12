@@ -13,45 +13,45 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     if (currentgame == "2048") {
-        iframe.src = "/uniub.github.io-new/gamefiles/2048/index.html";
+        iframe.src = "../gamefiles/2048/index.html";
     } else if (currentgame == "cell-machine") {
-        iframe.src = "/uniub.github.io-new/gamefiles/cell-machine/index.html";
+        iframe.src = "../gamefiles/cell-machine/index.html";
     } else if (currentgame == "death-run-3d") {
-        iframe.src = "/uniub.github.io-new/gamefiles/death-run-3d/index.html";
+        iframe.src = "../gamefiles/death-run-3d/index.html";
     } else if (currentgame == "doodle-jump") {
-        iframe.src = "/uniub.github.io-new/gamefiles/doodle-jump/index.html";
+        iframe.src = "../gamefiles/doodle-jump/index.html";
     } else if (currentgame == "just-one-boss") {
-        iframe.src = "/uniub.github.io-new/gamefiles/just-one-boss/index.html";
+        iframe.src = "../gamefiles/just-one-boss/index.html";
     } else if (currentgame == "krunker") {
-        iframe.src = "/uniub.github.io-new/gamefiles/krunker/index.html";
+        iframe.src = "../gamefiles/krunker/index.html";
     } else if (currentgame == "learntofly") {
-        iframe.src = "/uniub.github.io-new/gamefiles/learntofly/index.html";
+        iframe.src = "../gamefiles/learntofly/index.html";
     } else if (currentgame == "minecraft-classic") {
-        iframe.src = "/uniub.github.io-new/gamefiles/minecraft-classic/index.html";
+        iframe.src = "../gamefiles/minecraft-classic/index.html";
     } else if (currentgame == "wordle") {
-        iframe.src = "/uniub.github.io-new/gamefiles/wordle/index.html";
+        iframe.src = "../gamefiles/wordle/index.html";
     } else if (currentgame == "worlds-hardest-game") {
-        iframe.src = "/uniub.github.io-new/gamefiles/worlds-hardest-game/index.html";
+        iframe.src = "../gamefiles/worlds-hardest-game/index.html";
     } else if (currentgame == "minecraft-1.5.2") {
-        iframe.src = "/uniub.github.io-new/gamefiles/mc152/index.html";
+        iframe.src = "../gamefiles/mc152/index.html";
     } else if (currentgame == "minecraft-1.8.8") {
-        iframe.src = "/uniub.github.io-new/gamefiles/mc188/index.html";
+        iframe.src = "../gamefiles/mc188/index.html";
     } else if (currentgame == "bitlife") {
-        iframe.src = "/uniub.github.io-new/gamefiles/bitlife/index.html";
+        iframe.src = "../gamefiles/bitlife/index.html";
     } else if (currentgame == "retrobowl") {
-        iframe.src = "/uniub.github.io-new/gamefiles/retrobowl/index.html";
+        iframe.src = "../gamefiles/retrobowl/index.html";
     } else if (currentgame == "awesome-tanks-2") {
-        iframe.src = "/uniub.github.io-new/gamefiles/awesometanks2/index.html";
+        iframe.src = "../gamefiles/awesometanks2/index.html";
     } else if (currentgame == "1v1lol") {
-        iframe.src = "/uniub.github.io-new/gamefiles/1v1lol/index.html";
+        iframe.src = "../gamefiles/1v1lol/index.html";
     } else if (currentgame == "webosu") {
-        iframe.src = "/uniub.github.io-new/gamefiles/webosu/index.html";
+        iframe.src = "../gamefiles/webosu/index.html";
     } else if (currentgame == "sansbattlesimulator") {
-        iframe.src = "/uniub.github.io-new/gamefiles/sansbattlesimulator/index.html";
+        iframe.src = "../gamefiles/sansbattlesimulator/index.html";
     } else if (currentgame == "suikagame") {
-        iframe.src = "/uniub.github.io-new/gamefiles/suikagame/index.html";
+        iframe.src = "../gamefiles/suikagame/index.html";
     } else if (currentgame == "fnf") {
-        iframe.src = "/uniub.github.io-new/gamefiles/fnf/index.html";
+        iframe.src = "../gamefiles/fnf/index.html";
     } else if (currentgame == "ultraviolet") {
         iframe.src = "https://8080-cs-150154369975-default.cs-us-east1-rtep.cloudshell.dev/?authuser=0";
     }
